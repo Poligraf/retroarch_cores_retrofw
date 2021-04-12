@@ -6,7 +6,7 @@ Snes - sound issues present to improve snes speed. `WIP to improve sound quality
 
 Wonderswan - make you `Rewind Frames` is set to a high number like 17 or more. Otherwise it lags
 
-Vectrex - some slowdon present
+Vectrex - some slowdown present
 
 Dos - very slow
 
