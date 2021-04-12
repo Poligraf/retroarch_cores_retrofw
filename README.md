@@ -14,7 +14,7 @@ ColecoVision  - requires bios. Download from http://bluemsx.msxblue.com/rel_down
 
 Intellivision - requires bios. See https://docs.libretro.com/library/freeintv/
 
-Lowresnx - some games are too slow to run adequately
+Lowresnx - some games are slow to run
 
 MSX - needs bios otherwise `black screen` is present. See https://docs.libretro.com/library/fmsx/
 
