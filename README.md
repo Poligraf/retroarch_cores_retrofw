@@ -12,7 +12,10 @@ Atari 800/5200 requires bios. See https://docs.libretro.com/library/atari800/
 ```
 Important
 
-Select 5200/800 or XL/XE after you run the core. The core does not autodetect the game properly. Core stays on  Atari Computer - Memo Pad` screen.
+Select 5200/800 or XL/XE after you run the core.
+
+The core does not autodetect the game properly.
+Otherwise core stays on  Atari Computer - Memo Pad` screen.
 
 Change RetroPad to Atari Joystick or Atari Keyboard. Otherwise you cant move
 ```
