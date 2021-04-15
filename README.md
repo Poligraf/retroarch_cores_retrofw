@@ -12,9 +12,9 @@ Atari 800/5200
 
 Step 1 - requires bios. See https://docs.libretro.com/library/atari800/
 
-Step 2 - Select 5200/800 or XL/XE after you run the core. The core does not autodetect the game properly.
-
-Step 3 ###Very important## Change RetroPad to Atari Joystick or Atari Keyboard. Otherwise you cant move
+Step 2 - Select 5200/800 or XL/XE after you run the core.`The core does not autodetect the game properly`. Core stays on  `Atari Computer - Memo Pad` screen.
+`
+Step 3 `###Very important##` Change RetroPad to Atari Joystick or Atari Keyboard. Otherwise you cant move
 
 Dos - very slow
 
