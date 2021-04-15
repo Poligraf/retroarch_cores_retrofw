@@ -8,14 +8,14 @@ Add cores to the `/home/retrofw/.retroarch/cores` or equivalent folder
 
 ##Known Issues
 
-Atari 800/5200
+Atari 800/5200 requires bios. See https://docs.libretro.com/library/atari800/
+```
+Important
 
-Step 1 - requires bios. See https://docs.libretro.com/library/atari800/
+Select 5200/800 or XL/XE after you run the core. The core does not autodetect the game properly. Core stays on  Atari Computer - Memo Pad` screen.
 
-Step 2 - Select 5200/800 or XL/XE after you run the core.`The core does not autodetect the game properly`. Core stays on  `Atari Computer - Memo Pad` screen.
-`
-Step 3 `###Very important##` Change RetroPad to Atari Joystick or Atari Keyboard. Otherwise you cant move
-
+Change RetroPad to Atari Joystick or Atari Keyboard. Otherwise you cant move
+```
 Dos - very slow
 
 ColecoVision  - requires bios. Download from http://bluemsx.msxblue.com/rel_download/blueMSXv282full.zip and add  `Databases` and `Machines` folders from zip to `/home/retrofw/.retroarch/system` or equivalent - `Same steps as SG1000`  
