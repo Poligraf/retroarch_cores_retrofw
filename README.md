@@ -20,6 +20,9 @@ Otherwise core stays on  Atari Computer - Memo Pad` screen.
 
 Change RetroPad to Atari Joystick or Atari Keyboard. Otherwise you cant move
 ```
+
+Commodore64- `Sound gitch` - Start game without headphones. Plug headphones after audio starts. 
+
 Dos - very slow
 
 ColecoVision  - requires bios. Download from http://bluemsx.msxblue.com/rel_download/blueMSXv282full.zip and add  `Databases` and `Machines` folders from zip to `/home/retrofw/.retroarch/system` or equivalent - `Same steps as SG1000`  
