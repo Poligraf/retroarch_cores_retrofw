@@ -35,7 +35,7 @@ MSX - needs bios otherwise `black screen` is present. See https://docs.libretro.
 
 Odyssey2 - requires bios. See https://docs.libretro.com/library/o2em/
 
-PS88 - requires bios. See https://docs.libretro.com/library/quasi88/
+PC88 - requires bios. See https://docs.libretro.com/library/quasi88/
 
 SG1000  - requires bios. Download from http://bluemsx.msxblue.com/rel_download/blueMSXv282full.zip and add  `Databases` and `Machines` folders from zip to `/home/retrofw/.retroarch/system` or equivalent - `Same steps as ColecoVision`  
 
