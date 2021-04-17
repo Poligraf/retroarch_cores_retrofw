@@ -21,7 +21,7 @@ Otherwise core stays on  Atari Computer - Memo Pad` screen.
 Change RetroPad to Atari Joystick or Atari Keyboard. Otherwise you cant move
 ```
 
-Commodore64- `Sound gitch` - Start game without headphones. Plug headphones after audio starts. 
+Commodore64- `Sound gitch` - Start game without headphones. Plug headphones after audio starts.
 
 Dos - very slow
 
@@ -35,9 +35,11 @@ MSX - needs bios otherwise `black screen` is present. See https://docs.libretro.
 
 Odyssey2 - requires bios. See https://docs.libretro.com/library/o2em/
 
+PS88 - requires bios. See https://docs.libretro.com/library/quasi88/
+
 SG1000  - requires bios. Download from http://bluemsx.msxblue.com/rel_download/blueMSXv282full.zip and add  `Databases` and `Machines` folders from zip to `/home/retrofw/.retroarch/system` or equivalent - `Same steps as ColecoVision`  
 
-Snes - sound issues present to improve snes speed. `WIP to improve sound quality but not sacrifice speed`.
+Snes - Sound issues kind of fixed.
 
 
 Vectrex - some slowdown present
