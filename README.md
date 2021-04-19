@@ -8,6 +8,8 @@ Add cores to the `/home/retrofw/.retroarch/cores` or equivalent folder
 
 ##Known Issues
 
+AmstradCPC - 'Start + y' opens virtual keyboard. Press `select` in virtual keyboard menu to move mouse.
+
 Atari 800/5200 requires bios. See https://docs.libretro.com/library/atari800/
 ```
 Important
@@ -42,6 +44,6 @@ SG1000  - requires bios. Download from http://bluemsx.msxblue.com/rel_download/b
 Snes - Sound issues kind of fixed.
 
 
-Vectrex - some slowdown present
+Vectrex - some slowdown is present
 
-Wonderswan - make sure you `Rewind Frames` is set to a high number like 17 or more. Otherwise it lags.
+Wonderswan - make sure you `Rewind Frames` is set to a high number over 17. Otherwise it lags.
