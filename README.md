@@ -22,6 +22,7 @@ Otherwise core stays on  Atari Computer - Memo Pad` screen.
 
 Change RetroPad to Atari Joystick or Atari Keyboard. Otherwise you cant move
 ```
+Atari Lynx requires `lynxboot.img`. Core is too unstable without it
 
 Commodore64- `Sound gitch` - Start game without headphones. Plug headphones after audio starts.
 
