@@ -34,6 +34,9 @@ Dos - very slow
 
 ColecoVision  - requires bios. Download from http://bluemsx.msxblue.com/rel_download/blueMSXv282full.zip and add  `Databases` and `Machines` folders from zip to `/home/retrofw/.retroarch/system` or equivalent - `Same steps as SG1000`  
 
+
+Dubithawr - Grab game form https://buildbot.libretro.com/assets/cores/Dinothawr/
+
 Intellivision - requires bios. See https://docs.libretro.com/library/freeintv/
 
 Lowresnx - some games are slow to run
