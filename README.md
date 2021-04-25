@@ -24,6 +24,8 @@ Change RetroPad to Atari Joystick or Atari Keyboard. Otherwise you cant move
 ```
 Atari Lynx requires `lynxboot.img`. Core is too unstable without it
 
+Cave story. Grab and unload zip https://github.com/Poligraf/retroarch_cores_retrofw/blob/main/Cave%20Story%20(En).zip. Zip file obtained from retroarch buildbot `https://buildbot.libretro.com/assets/cores/Cave%20Story/` does not contain copyright material.
+
 Commodore64- `Sound gitch` - Start game without headphones. Plug headphones after audio starts.
 
 Dos - very slow
@@ -48,3 +50,5 @@ Snes - Sound issues kind of fixed.
 Vectrex - some slowdown is present
 
 Wonderswan - make sure you `Rewind Frames` is set to a high number over 17. Otherwise it lags.
+
+ZX spectrum- Requires bios. See https://docs.libretro.com/library/fuse/ for details
