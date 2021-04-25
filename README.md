@@ -53,6 +53,7 @@ SG1000  - requires bios. Download from http://bluemsx.msxblue.com/rel_download/b
 
 Snes - Sound issues kind of fixed.
 
+Uxebox - Way too slow but it has minesweeper. http://uzebox.org/wiki/Uzesweeper#Source
 
 Vectrex - some slowdown is present
 
