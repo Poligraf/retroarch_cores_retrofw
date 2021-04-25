@@ -35,7 +35,7 @@ Dos - very slow
 ColecoVision  - requires bios. Download from http://bluemsx.msxblue.com/rel_download/blueMSXv282full.zip and add  `Databases` and `Machines` folders from zip to `/home/retrofw/.retroarch/system` or equivalent - `Same steps as SG1000`  
 
 
-Dubithawr - Grab game form https://buildbot.libretro.com/assets/cores/Dinothawr/
+Dinothawr - Grab game form https://buildbot.libretro.com/assets/cores/Dinothawr/
 
 Flashback -reminiscence Watch video https://www.youtube.com/watch?v=46S-FDjSjfo for set up
 
