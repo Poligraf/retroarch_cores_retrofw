@@ -37,6 +37,8 @@ ColecoVision  - requires bios. Download from http://bluemsx.msxblue.com/rel_down
 
 Dubithawr - Grab game form https://buildbot.libretro.com/assets/cores/Dinothawr/
 
+Flashback -reminiscence Watch video https://www.youtube.com/watch?v=46S-FDjSjfo for set up
+
 Intellivision - requires bios. See https://docs.libretro.com/library/freeintv/
 
 Lowresnx - some games are slow to run
