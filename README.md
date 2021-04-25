@@ -2,6 +2,8 @@
 
 ##Important
 
+Grab retroarch from https://github.com/Poligraf/retroarch-retrofwunofficial/releases
+
 Add bios to the `/home/retrofw/.retroarch/system` or equivalent folder
 
 Add cores to the `/home/retrofw/.retroarch/cores` or equivalent folder
