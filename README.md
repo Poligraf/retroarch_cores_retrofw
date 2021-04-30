@@ -51,6 +51,8 @@ PC88 - requires bios. See https://docs.libretro.com/library/quasi88/
 
 SG1000  - requires bios. Download from http://bluemsx.msxblue.com/rel_download/blueMSXv282full.zip and add  `Databases` and `Machines` folders from zip to `/home/retrofw/.retroarch/system` or equivalent - `Same steps as ColecoVision`  
 
+Sharp X1 - Add bios files `IPLROM.X1` `IPLROM.X1T` to  `/home/retrofw/.retroarch/system/xmil`
+
 Snes - Sound issues kind of fixed.
 
 Uxebox - Way too slow but it has minesweeper. http://uzebox.org/wiki/Uzesweeper#Source
