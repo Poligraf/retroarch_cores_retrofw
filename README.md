@@ -41,6 +41,10 @@ Dinothawr - Grab game form https://buildbot.libretro.com/assets/cores/Dinothawr/
 
 Flashback -reminiscence Watch video https://www.youtube.com/watch?v=46S-FDjSjfo for set up
 
+Gameboy (fast) runs games without slowdown
+
+Gameboy (accurate) some games have slowdown due to higher accuracy
+
 Intellivision - requires bios. See https://docs.libretro.com/library/freeintv/
 
 Lowresnx - some games are slow to run
